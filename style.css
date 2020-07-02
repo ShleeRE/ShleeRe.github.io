@@ -1,0 +1,65 @@
+body{
+    vertical-align: middle;
+    background-color: black;
+}
+
+#spirala40
+{
+    position: absolute;
+    left: 50%;
+    margin-top: -3.5em;
+}
+
+#spirala20{
+    position: absolute;
+    margin-left: -2.75em;
+}
+
+#spirala30{
+    position: absolute;
+    margin-right: -4em;
+}
+
+#spirala20_timer_spirala30_div{
+
+    position: relative;
+    display: block;
+
+    text-align: center;
+
+    margin-left: 3em;
+    margin-top: 5em;
+
+}
+
+
+#biolog_items_div{
+    position: relative;
+
+    left: 50%;
+    margin-left:  -11.5em;
+    margin-top: 2em;
+}
+
+#timer{
+    color: white;
+
+    position: relative;
+
+    display: inline;
+
+    text-align: center;
+
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#biolog_img{
+    position: relative;
+
+    left: 50%;
+    
+    margin-left: 3.25em;
+    margin-top: 2em;
+
+}
